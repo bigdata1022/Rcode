@@ -217,5 +217,3 @@ To write your own R Packages
 2. testthat
 3. roxygen2
 
- 
-aaa
